@@ -47,5 +47,4 @@
   <li> Week 6 - Cybersecurity</li>  
 </ol>
   
-</body>
 </html>  
